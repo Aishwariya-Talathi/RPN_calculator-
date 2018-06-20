@@ -19,14 +19,14 @@ Redo is activated by pressing the ‘r’ key.
 
 Example:
 
-2 3 4 5 + + - <enter>
-10
-u
-2 12 –
-u
-2 3 9 + -
-r
-2 12 -
-r
-10
-d
+--> 2 3 4 5 + + - <enter>
+--> 10
+--> u
+--> 2 12 –
+--> u
+--> 2 3 9 + -
+--> r
+--> 2 12 -
+--> r
+--> 10
+--> d
